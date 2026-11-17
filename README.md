@@ -1,10 +1,5 @@
 ## Younesse HAMADI
 
-🎓 Étudiant en **BUT Réseaux & Télécommunications**, parcours *Développement Système et Cloud*<br>
-🔎 À la recherche d'un **stage de 8 à 10 semaines à partir d'avril 2027** en réseaux / systèmes, cloud ou automatisation
-
-Ce qui m'intéresse : les protocoles réseau, la programmation système en C sous Linux et l'automatisation de workflows (n8n, API REST, IA).
-
 ### 🛠️ Projets mis en avant
 
 | Projet | Description | Points techniques |

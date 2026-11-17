@@ -1,6 +1,6 @@
 ## Younesse HAMADI
 
-### 🛠️ Projets mis en avant
+### Projets mis en avant
 
 | Projet | Description | Points techniques |
 |---|---|---|
@@ -11,11 +11,11 @@
 
 Chaque projet est compilé et testé automatiquement avec **GitHub Actions** (gcc et clang, `-Werror`).
 
-### 🤖 Automatisation
+### Automatisation
 
 [**moodle-n8n-automation**](https://github.com/Hamadiy/moodle-n8n-automation) – **projet de fin d'études : automatisation d'une plateforme Moodle avec n8n.** À partir du nom d'un cours, le workflow génère les vidéos pédagogiques, le support de cours et les TD en PDF. Il publie ensuite automatiquement les vidéos sur YouTube et les documents sur Google Classroom.
 
-### 🧰 Compétences
+### Compétences
 
 **Réseaux** : Cisco IOS · Packet Tracer · VLAN / Trunk · OSPF · RIP · DHCP · VLSM · TCP/IP<br>
 **Systèmes** : Linux · Windows · VMware ESXi · Hyper-V<br>
